@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Vadya/Desktop/tashkent-metro/test/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="08f2eb3d36864adc19462e7f1d52ade3a9569492">
+        <dex dex="/Users/Vadya/Desktop/tashkent-metro/test/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5a91389257842a0acbb7e1fef20d1942c95f23a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Vadya/.android/build-cache/3851af2acf617d74db292f725dfa0ec1a60ed6bb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/Vadya/Desktop/tashkent-metro/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f1d3034f6df8c6453edc05ef490b5af39c5d612a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Vadya/Desktop/tashkent-metro/test/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Vadya/Desktop/tashkent-metro/test/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4703963f3149a4eb8a2fb87aa87ff5a7bcdb0060/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Vadya/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/Vadya/Desktop/tashkent-metro/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_5f4780d2ea45e8afff9afaa380eb2007181399c3/classes.dex" />
+    </item>
+
+</items>
