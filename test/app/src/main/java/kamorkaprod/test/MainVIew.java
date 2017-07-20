@@ -25,7 +25,11 @@ public class MainVIew extends View {
     }
 
     public void onDraw(Canvas canvas) {
-        canvas.drawText("Hello KOMORKE!", 10, 10, new Paint());
+        Paint p = new Paint();
+        p.setStrokeWidth(30);
+        p.setTextSize(100);
+        p.setColor(Color.BLUE);
+        canvas.drawText("Hello KOMORKE!", 100, 100, p);;
     }
 
 }
